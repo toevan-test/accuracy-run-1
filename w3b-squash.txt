@@ -1,1 +1,2 @@
 w3b squash one
+w3b squash two
